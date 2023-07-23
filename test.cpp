@@ -7,5 +7,6 @@ int main()
     cout<<"learned git and github and processing";
     cout<<"mama i hava learned git and konw how to push my code";
     cout<<"can you wait for me";
+    cout<<"i am a human and you ";
     return 0;
 }
