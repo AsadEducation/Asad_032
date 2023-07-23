@@ -8,5 +8,6 @@ int main()
     cout<<"mama i hava learned git and konw how to push my code";
     cout<<"can you wait for me";
     cout<<"i am a human and you ";
+    cout<<"hello everyone from bd";
     return 0;
 }
